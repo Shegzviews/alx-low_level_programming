@@ -7,6 +7,7 @@ int main(void)
 	int *p;
 
 	a[2] = 1024;
+	printf("a[2] = 1024\n");
        	p = &n;
 	 /*
 	  * write your line of code here...
